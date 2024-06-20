@@ -1,0 +1,32 @@
+{
+  "collectionName": "components_hp_components_link_to_case_hp_s",
+  "info": {
+    "displayName": "Link to Case [HP]",
+    "icon": "attachment"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Link": {
+      "type": "string"
+    },
+    "Doctor": {
+      "type": "string"
+    },
+    "DoctorDescription": {
+      "type": "text"
+    },
+    "Thumbnail": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
